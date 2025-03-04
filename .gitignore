@@ -1,0 +1,28 @@
+# Logs
+*.log
+
+# Backup files
+*_backup_*
+
+# Temporary files
+*.tmp
+*.temp
+.*.swp
+
+# Downloaded packages
+*.deb
+*.rpm
+*.tar.gz
+*.zip
+
+# Environment files
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-*
+
+# OS specific files
+.DS_Store
+Thumbs.db
