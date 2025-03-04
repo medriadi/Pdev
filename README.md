@@ -89,7 +89,7 @@ A comprehensive automation toolkit for creating and managing complete developmen
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pdev.git
+git clone https://github.com/medriadi/pdev.git
 cd pdev
 ```
 
